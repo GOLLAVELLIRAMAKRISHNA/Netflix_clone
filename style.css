@@ -318,7 +318,7 @@ select option {
     display: block;
     height: auto;
     visibility: visible;
-    transition: height .8s ease-in-out,visibility .8s ease;
+    transition: height .8s ease-in-out, visibility .8s ease;
 }
 
 .ans p {
